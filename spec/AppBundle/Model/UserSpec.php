@@ -6,9 +6,9 @@
  * Time: 12:31 AM
  */
 
-namespace spec\App\Model;
+namespace spec\AppBundle\Model;
 
-use App\Model\User;
+use AppBundle\Model\User;
 use PhpSpec\ObjectBehavior;
 use Prophecy\Argument;
 
